@@ -1,1 +1,1 @@
-# -SRA_upload_to_NCBI
+# SRA_upload_to_NCBI
